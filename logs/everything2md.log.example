@@ -1,0 +1,22 @@
+2026-06-30 09:00:01 | PASS | notes.txt | forward | converted in 3ms
+2026-06-30 09:00:01 | PASS | readme.txt | forward | converted in 2ms
+2026-06-30 09:00:02 | PASS | index.html | forward | converted in 8ms
+2026-06-30 09:00:02 | PASS | page.htm | forward | converted in 6ms
+2026-06-30 09:00:03 | PASS | document.rtf | forward | converted in 11ms
+2026-06-30 09:00:05 | PASS | chapter_01.epub | forward | converted in 1843ms
+2026-06-30 09:00:06 | PASS | report.docx | forward | converted in 312ms, 3 tables, 7 images
+2026-06-30 09:00:06 | WARN | report.docx | An unrecognised element was ignored: v:stroke
+2026-06-30 09:00:07 | PASS | presentation_slides.docx | forward | converted in 485ms, 24 images
+2026-06-30 09:00:07 | WARN | presentation_slides.docx | An unrecognised element was ignored: v:stroke
+2026-06-30 09:00:10 | PASS | summary_report.pdf | forward | converted in 2766ms, 5 tables
+2026-06-30 09:00:13 | PASS | data_analysis.pdf | forward | converted in 3219ms, 18 tables
+2026-06-30 09:00:16 | PASS | lesson_01.pdf | forward | converted in 3641ms, 7 tables
+2026-06-30 09:00:17 | PASS | demo_slides.pdf | forward | converted in 250ms, 1 table
+2026-06-30 09:00:17 | PASS | quick_start.pdf | forward | converted in 140ms
+2026-06-30 09:00:17 | FAIL | corrupted_file.pdf | forward | cannot open broken PDF file (file may be corrupt or password-protected)
+2026-06-30 09:00:18 | PASS | sub/nested_notes.txt | forward | converted in 2ms
+2026-06-30 09:00:18 | PASS | sub/nested_report.docx | forward | converted in 203ms, 2 tables, 4 images
+2026-06-30 09:01:00 | PASS | notes.md | reverse | converted in 4ms
+2026-06-30 09:01:01 | PASS | report.md | reverse | converted in 188ms
+2026-06-30 09:01:04 | PASS | summary_report.md | reverse | converted in 2344ms
+2026-06-30 09:01:04 | FAIL | orphaned.md | reverse | Cannot determine target format for orphaned.md. No asset marker found and no --format flag provided.

@@ -1,0 +1,7 @@
+Hello, everything2md!
+
+This is a sample plain text file.
+It has multiple lines and paragraphs.
+
+Second paragraph here.
+With some more content.

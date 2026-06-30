@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Environment secrets
+.env
+
+# Project docs excluded from version control
+ROADMAP.md
+CLAUDE.md
+
+# Logs -- keep directory, ignore log files
+logs/*.log
+
+# I/O working directories -- track the folders, ignore their contents
+input/*
+output/*
+!input/.gitkeep
+!output/.gitkeep
+
+# Test fixtures / scratch
+test/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/

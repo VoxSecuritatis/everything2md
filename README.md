@@ -394,6 +394,4 @@ pip install -r requirements.txt
 
 ---
 
-## License
-
-MIT
+© 2026 Brock Frary. All rights reserved.
